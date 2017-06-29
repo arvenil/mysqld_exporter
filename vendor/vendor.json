@@ -7,12 +7,6 @@
 			"revision": ""
 		},
 		{
-			"checksumSHA1": "VYvyVPooYXiO6gqwCGkPPK5vCzk=",
-			"path": "github.com/Sirupsen/logrus",
-			"revision": "3d4380f53a34dcdc95f0c1db702615992b38d9a4",
-			"revisionTime": "2017-06-20T14:45:10Z"
-		},
-		{
 			"checksumSHA1": "spyv5/YFBjYyZLZa1U2LBfDR8PM=",
 			"path": "github.com/beorn7/perks/quantile",
 			"revision": "4c0e84591b9aa9e6dcfdf3e020114cd81f89d5f9",
